@@ -1,0 +1,3 @@
+virt/**/*
+virt_dev/**/*
+.venv/**/*
